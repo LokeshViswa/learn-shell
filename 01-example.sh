@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
-#!/bin/bash
 
-# list files
+#list files
 ls
 
-# cat user files
+#cat user files
 cat /etc/passwd
