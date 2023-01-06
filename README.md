@@ -6,7 +6,7 @@ Shell Scripting Topics:
 ...........
 1.Printing
 2.Variables (V)
-3.Functions (F)
+3.Functions 
 4.Conditions (C)
 5.Loops (L)
 6.Exit Status
