@@ -2,8 +2,8 @@
 
 In this repo we will keep the shell scripting files
 
-Shell Scripting Topics:
-...........
+Shell Topics:
+
 1.Printing
 2.Variables (V)
 3.Functions 
