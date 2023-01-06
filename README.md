@@ -4,8 +4,8 @@ In this repo we will keep the shell scripting files
 
 Shell Topics:
 
-1.Printing
-2.Variables (V)
+1. Printing
+2. Variables (V)
 3.Functions 
 4.Conditions (C)
 5.Loops (L)
